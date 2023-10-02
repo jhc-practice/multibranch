@@ -7,7 +7,7 @@ stages{
         branch "dev"
         }
         steps{
-            echo "maven build successfull!"
+            echo "maven build!"
         }
     }
     
